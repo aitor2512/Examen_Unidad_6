@@ -1,0 +1,8 @@
+site_name: Examen Unidad 6
+nav:
+  - Inicio: index.md
+  - Guia de Instalacion Windows 11: windows.md
+  - Especificaciones Técnicas Iphone16: iphone.md
+  - Descarga de Documentacion: descarga.md
+theme:
+  name: readthedocs
